@@ -1,21 +1,21 @@
-# 📚 Online Bookstore Management System
+#  Online Bookstore Management System
 
-## 🏗️ Overview
+##  Overview
 A relational SQL-based project for managing an online bookstore, built to demonstrate database design, normalization, queries, procedures, and triggers.
 
-## 🧰 Tech Stack
+##  Tech Stack
 - MySQL / PostgreSQL
 - SQL scripts (DDL, DML, DQL)
 - ER diagram design
 
-## 🗃️ Features
-✅ Manage Books, Authors, and Categories  
-✅ Record and track Orders & Customers  
-✅ Auto-update stock via Triggers  
-✅ Generate reports using SQL queries & Views  
-✅ Stored procedures for dynamic operations  
+##  Features
+- Manage Books, Authors, and Categories  
+- Record and track Orders & Customers  
+- Auto-update stock via Triggers  
+- Generate reports using SQL queries & Views  
+- Stored procedures for dynamic operations  
 
-## 📦 How to Run
+## - How to Run
 1. Clone the repository  
    ```bash
    git clone https://github.com/<your-username>/Online-Bookstore-Management.git
